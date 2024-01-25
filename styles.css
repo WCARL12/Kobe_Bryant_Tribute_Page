@@ -128,6 +128,7 @@ a:hover:after {
   height: 1100px;
   background-size: cover;
   background-repeat: no-repeat;
+  z-index:1;
 }
 .header {
   text-align: center;
