@@ -1,5 +1,6 @@
 # Kobe_Bryant_Tribute_Page
 <p>Created a web site as a tribute for Kobe Bryant for a little side project</p>
+<a href='https://wcarl12.github.io/Kobe_Bryant_Tribute_Page/'>Website Link</a>
 <p>Preview: (Laptop screenshots)</p>
 <br>
 
