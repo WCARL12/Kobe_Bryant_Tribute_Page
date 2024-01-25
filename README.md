@@ -11,4 +11,7 @@
 <br>
 
 ![image](https://github.com/WCARL12/Kobe_Bryant_Tribute_Page/assets/139624156/d5efca4b-ace0-4e25-841a-e032219c523b)
+<br>
+![image](https://github.com/WCARL12/Kobe_Bryant_Tribute_Page/assets/139624156/9ba768ed-5090-443a-9fbc-d7f3cdb68359)
+
 
